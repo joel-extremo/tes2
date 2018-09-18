@@ -7,9 +7,15 @@ Things you may want to cover:
 
 * Ruby version
 
+ruby-2.5.1
+
 * System dependencies
 
+none yet
+
 * Configuration
+
+none yet
 
 * Database creation
 
