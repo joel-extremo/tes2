@@ -29,5 +29,22 @@
 
 .footer p{
   margin: 0;
+  text-align: center;
 }
 
+// contact section
+
+#contact{
+  max-width: 1170px;
+  margin: auto auto;
+}
+
+#contact input{
+  width: 100%
+}
+
+// about
+
+#about{
+  margin: 0 70px;
+}
