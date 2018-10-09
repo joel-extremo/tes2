@@ -1,6 +1,15 @@
 
+<section class="container">
+	<div class="row">
+		<% for i in 1..9 do %>
+			<div class="col-sm-4">
+				<%= image_tag("bikes/#{i}.png", class: "img-responsive logo") %>
+			</div>
+		<% end %>
+	</div>
+</section>
 
-<% for i in 1..8 do %>
-  <%= image_tag("bikes/#{i}.png", class: "img-responsive logo") %>
-<% end %>
+
+  
+
 
